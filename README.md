@@ -6,7 +6,7 @@ This is a record of my data science curiosities.
 
 ### Markdown
 
-Checkout my [First Analysis](https://mattlscruggs.github.io/DataScience/Did-masks-work.html)
+Check out my [First Analysis](https://mattlscruggs.github.io/DataScience/Did-masks-work.html)
 
 
 ### Jekyll Themes
