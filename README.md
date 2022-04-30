@@ -4,9 +4,9 @@ From time to time, I grow curious about things in our world, and explore them wi
 
 This is a record of my data science curiosities.
 
-### Markdown
+### Contents 
 
-Check out my [First Analysis](https://mattlscruggs.github.io/DataScience/Did-masks-work.html)
+[Do mask orders reduce the spread of COVID-19?](https://mattlscruggs.github.io/DataScience/Did-masks-work.html)
 
 
 ### Jekyll Themes
