@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-[First Analysis](https://mattlscruggs.github.io/DataScience/Did_masks_work.html)
+[First Analysis](https://mattlscruggs.github.io/DataScience/Did-masks-work.html)
 
 ```markdown
 Syntax highlighted code block
