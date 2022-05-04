@@ -6,7 +6,7 @@ This is a record of my data science curiosities.
 
 ### Contents 
 
-[How many COVID-19 cases are there, actually?](https://mattlscruggs.github.io/DataScience/Actual Case Count- Data Cleaning.html)
+[How many COVID-19 cases are there, actually?](https://mattlscruggs.github.io/DataScience/Actual_Case_Count-Data_Cleaning.html)
 
 
 
