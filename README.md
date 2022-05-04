@@ -6,7 +6,7 @@ This is a record of my data science curiosities.
 
 ### Contents 
 
-[Do mask orders reduce the spread of COVID-19?](https://mattlscruggs.github.io/DataScience/Did-masks-work.html)
+[How many COVID-19 cases are there, actually?](https://mattlscruggs.github.io/DataScience/Actual Case Count- Data Cleaning.html)
 
 
 
