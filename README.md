@@ -1,8 +1,15 @@
 ## Welcome to my project portfolio site
 
-From time to time, I grow curious about things in our world, and explore them with data.
-
+From time to time, I grow curious about things in our world, and explore them with data.\
 This is a record of my data science curiosities.
+
+This site is meant to be accessible to anyone with a passing interest in machine learning and a desire to look under the hood. My goal is to walk you through the entire data science process, from forming a question, to finding and preparing raw data, all the way to model development and evaluation. I'll annotate the steps along the way to try and give a good intuition of what I'm doing and why it's important. I believe science should be accessible, especially in our modern world, when algorithms and machine learning make so many decisions for us, invisibly and in the background.
+
+I think scientists have a responsibility to show their work, and not rely on the authority of expertise. Likewise, I believe if an individual is truly questioning a topic in good faith, the responsibility is on their shoulders to make an effort to understand the nuances.
+
+If you're familiar with machine learning already, welcome! Feel free to leave constructive feedback in a comment or issue. I'm making an effort to have all my code, data, sources, etc available for reproducibility, so feel free to fork and modify as you'd like, all the code here is open-sourced from an MIT license. As for the data, their license terms are usually available on their repo or website, please do consult the data owners and use under their restrictions.
+
+Thanks!
 
 ### Contents 
 
