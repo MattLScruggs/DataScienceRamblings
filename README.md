@@ -7,7 +7,7 @@ This site is meant to be accessible to anyone with a passing interest in machine
 
 I think scientists have a responsibility to show their work, and not rely on the authority of expertise. Likewise, I believe if an individual is truly questioning a topic in good faith, the responsibility is on their shoulders to make an effort to understand the nuances.
 
-If you're familiar with machine learning already, welcome! Feel free to leave constructive feedback in a comment or issue. I'm making an effort to have all my code, data, sources, etc available for reproducibility, so feel free to fork and modify as you'd like, all the code here is open-sourced from an MIT license. As for the data, their license terms are usually available on their repo or website, please do consult the data owners and use under their restrictions.
+If you're familiar with machine learning already, welcome! Feel free to leave constructive feedback in a comment or issue. I'm making an effort to have all my code, data, sources, etc available for reproducibility, so feel free to fork and modify as you'd like, all the code here is open-sourced from an MIT license. I don't have all the notebooks set up as GitHub Pages, but they're available in the main repo [here](https://github.com/MattLScruggs/DataScienceRamblings). As for the data, their license terms are usually available on their repo or website, please do consult the data owners and use under their restrictions. 
 
 Thanks!
 
