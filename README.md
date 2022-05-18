@@ -14,6 +14,7 @@ Thanks!
 ### Contents 
 
 [Data prep for COVID case analysis](https://mattlscruggs.github.io/DataScienceRamblings/Actual_Case_Count_Data_Prep.html)
+
 [How Many COVID Cases Are Actually Out There?](https://mattlscruggs.github.io/DataScienceRamblings/Actual_Case_Count_Presentation_Version.html)
 
 ### Links to data I've used
