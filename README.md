@@ -11,11 +11,18 @@ If you're familiar with machine learning already, welcome! Feel free to leave co
 
 Thanks!
 
-### Contents 
+### Case Studies 
+#### Cleaned-up versions of my Jupyter Notebooks emphasizing analysis and graphics over code. Start here if you're curious.
+
+
+[How Many COVID Cases Are Actually Out There?](https://mattlscruggs.github.io/DataScienceRamblings/Actual_Case_Count_Presentation_Version.html)
+
+
+### Methodology Reference
+#### These are html copies of Jupyter Notebooks in the repo, meant for technical reference. Start here for the nitty-gritty details.
 
 [Data prep for COVID case analysis](https://mattlscruggs.github.io/DataScienceRamblings/Actual_Case_Count_Data_Prep.html)
 
-[How Many COVID Cases Are Actually Out There?](https://mattlscruggs.github.io/DataScienceRamblings/Actual_Case_Count_Presentation_Version.html)
 
 ### Links to data I've used
 
