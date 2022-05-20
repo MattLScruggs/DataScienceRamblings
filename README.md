@@ -15,7 +15,7 @@ Thanks!
 #### Start here if you're curious.
 
 
-[How Many COVID Cases Are Actually Out There?](https://mattlscruggs.github.io/DataScienceRamblings/Actual_Case_Count_Presentation_Version.html)
+[How Many COVID Cases Are Actually Out There, and What Does That Mean For My Risk Of Exposure?](https://mattlscruggs.github.io/DataScienceRamblings/Actual_Case_Count_Presentation_Version.html)
 
 
 ### Methodology Reference
