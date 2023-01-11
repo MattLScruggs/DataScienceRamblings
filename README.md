@@ -17,6 +17,9 @@ Thanks!
 
 [How Many COVID Cases Are Actually Out There, and What Does That Mean For My Risk Of Exposure?](https://mattlscruggs.github.io/DataScienceRamblings/Actual_Case_Count_Presentation_Version.html)
 
+[What geographic areas have a higher risk of diabetes, and why?]
+(https://mattlscruggs.github.io/DataScienceRamblings/map_diabetes.html)
+
 
 ### Methodology Reference
 #### These are html copies of Jupyter Notebooks in the repo, meant for technical reference and nitty-gritty details.
