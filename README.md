@@ -17,6 +17,7 @@ Thanks!
 
 [How Many COVID Cases Are Actually Out There, and What Does That Mean For My Risk Of Exposure?](https://mattlscruggs.github.io/DataScienceRamblings/Actual_Case_Count_Presentation_Version.html)
 
+[Map of Diabetes Prevalence](https://github.com/MattLScruggs/DataScienceRamblings/map_diabetes.html)
 
 
 ### Methodology Reference
